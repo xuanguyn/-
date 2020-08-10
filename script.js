@@ -279,6 +279,12 @@ $(function() {
             name: "Anh sẽ không đi đâu hết",
             url: "Musics/Anhsekhongdidauhet_Xon_Rica.mp3",
             picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Thịnh Suy",
+            name: "Chuyện rằng",
+            url: "Musics/Chuyenrang_ThinhSuy.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
         }
     ];
 
