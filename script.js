@@ -162,7 +162,7 @@ $(function() {
         },
         {
             artist: "Trang",
-            name: "Một bài hát cho nhau",
+            name: "Một bài hát cho nhau (1)",
             url: "Musics/Motbaihatchonhau_Trang.mp3",
             picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
         },
@@ -284,6 +284,42 @@ $(function() {
             artist: "Thịnh Suy",
             name: "Chuyện rằng",
             url: "Musics/Chuyenrang_ThinhSuy.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Trang",
+            name: "1000 Km",
+            url: "Musics/1000km.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Trang ft Khoa Vũ",
+            name: "Giữ cho em một thế giới",
+            url: "Musics/Giuchoemmotthegioi_Trang_KhoaVu.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Trang",
+            name: "Một bài hát cho nhau (2)",
+            url: "Musics/motbaihatchonhau2.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Trang",
+            name: "Một bài hát cho nhau (3)",
+            url: "Musics/motbaihatchonhau3.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Trang",
+            name: "Ta mơ thấy nhau",
+            url: "Musics/Tamothaynhau_Trang.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Uyên Pím",
+            name: "Mưa đã lâu",
+            url: "Musics/MuaDaLau_UyenPim.mp3",
             picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
         }
     ];
