@@ -321,6 +321,30 @@ $(function() {
             name: "Mưa đã lâu",
             url: "Musics/MuaDaLau_UyenPim.mp3",
             picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Andiez",
+            name: "Chờ đợi có đáng sợ?",
+            url: "Musics/Chodoicodangso_andiez.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Vũ.",
+            name: "Đông kiếm em",
+            url: "Musics/Dongkiemem_Vu.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Vũ.",
+            name: "Mùa mưa ngâu nằm cạnh",
+            url: "Musics/Muamuangaunamcanh_Vu.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Hoàng Dũng",
+            name: "Nàng thơ",
+            url: "Musics/Nangtho_HoangDung.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
         }
     ];
 
