@@ -345,6 +345,12 @@ $(function() {
             name: "Nàng thơ",
             url: "Musics/Nangtho_HoangDung.mp3",
             picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
+        },
+        {
+            artist: "Nguyên ft denden",
+            name: "Có anh rồi",
+            url: "Musics/Coanhroi_Nguyen_DenDen.mp3",
+            picture: "https://i1.sndcdn.com/artworks-000594318516-jutk7g-t500x500.jpg",
         }
     ];
 
